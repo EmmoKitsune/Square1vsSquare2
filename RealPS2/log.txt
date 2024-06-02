@@ -1,0 +1,3097 @@
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 430180
+LOG: bg loaded
+LOG: 884143
+LOG: white cube loaded
+LOG: 45738
+LOG: bullet loaded
+LOG: 352435
+
+==============  TYRA  ==============
+| Assertion failed!
+|
+| Texture for sprite with id: 
+| 37803
+| Was not found in texture repository! Did you forget to add texture?
+|
+| File : src/renderer/2d/renderer_2d.cpp:25
+====================================
+
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 389797
+LOG: bg loaded
+LOG: 552212
+LOG: white cube loaded
+LOG: 809062
+LOG: bullet loaded
+LOG: 475464
+
+==============  TYRA  ==============
+| Assertion failed!
+|
+| Texture for sprite with id: 
+| 478703
+| Was not found in texture repository! Did you forget to add texture?
+|
+| File : src/renderer/2d/renderer_2d.cpp:25
+====================================
+
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 721319
+LOG: bg loaded
+LOG: 623971
+LOG: white cube loaded
+LOG: 961899
+LOG: bullet loaded
+LOG: 458643
+
+==============  TYRA  ==============
+| Assertion failed!
+|
+| Texture for sprite with id: 
+| 865187
+| Was not found in texture repository! Did you forget to add texture?
+|
+| File : src/renderer/2d/renderer_2d.cpp:25
+====================================
+
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 967445
+LOG: bg loaded
+LOG: 426702
+LOG: white cube loaded
+LOG: 213194
+LOG: bullet loaded
+LOG: 692822
+
+==============  TYRA  ==============
+| Assertion failed!
+|
+| Texture for sprite with id: 
+| 226293
+| Was not found in texture repository! Did you forget to add texture?
+|
+| File : src/renderer/2d/renderer_2d.cpp:25
+====================================
+
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 184039
+LOG: bg loaded
+LOG: 533821
+LOG: white cube loaded
+LOG: 458291
+LOG: bullet loaded
+LOG: 377599
+
+==============  TYRA  ==============
+| Assertion failed!
+|
+| Texture for sprite with id: 
+| 436359
+| Was not found in texture repository! Did you forget to add texture?
+|
+| File : src/renderer/2d/renderer_2d.cpp:25
+====================================
+
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 761535
+LOG: bg loaded
+LOG: 644980
+LOG: white cube loaded
+LOG: 533610
+LOG: bullet loaded
+LOG: 155687
+LOG: hud1 loaded
+LOG: 617058
+LOG: hud2 loaded
+LOG: 483131
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 419687
+LOG: bg loaded
+LOG: 354168
+LOG: white cube loaded
+LOG: 167140
+LOG: bullet loaded
+LOG: 130134
+LOG: hud1 loaded
+LOG: 374943
+LOG: hud2 loaded
+LOG: 221317
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 905717
+LOG: bg loaded
+LOG: 961181
+LOG: white cube loaded
+LOG: 351090
+LOG: bullet loaded
+LOG: 782335
+LOG: hud1 loaded
+LOG: 79922
+LOG: hud2 loaded
+LOG: 755715
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 467082
+LOG: bg loaded
+LOG: 898277
+LOG: white cube loaded
+LOG: 15956
+LOG: bullet loaded
+LOG: 654363
+LOG: hud1 loaded
+LOG: 62551
+LOG: hud2 loaded
+LOG: 384410
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 861494
+LOG: bg loaded
+LOG: 237811
+LOG: white cube loaded
+LOG: 496076
+LOG: bullet loaded
+LOG: 708703
+LOG: hud1 loaded
+LOG: 757625
+LOG: hud2 loaded
+LOG: 101439
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 436760
+LOG: bg loaded
+LOG: 505289
+LOG: white cube loaded
+LOG: 199906
+LOG: bullet loaded
+LOG: 790212
+LOG: hud1 loaded
+LOG: 283883
+LOG: hud2 loaded
+LOG: 435160
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 985680
+LOG: bg loaded
+LOG: 896429
+LOG: white cube loaded
+LOG: 227492
+LOG: bullet loaded
+LOG: 997221
+LOG: hud1 loaded
+LOG: 781101
+LOG: hud2 loaded
+LOG: 881306
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 655736
+LOG: bg loaded
+LOG: 219421
+LOG: white cube loaded
+LOG: 145305
+LOG: bullet loaded
+LOG: 610838
+LOG: hud1 loaded
+LOG: 198929
+LOG: hud2 loaded
+LOG: 57563
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 483351
+LOG: bg loaded
+LOG: 804432
+LOG: white cube loaded
+LOG: 935421
+LOG: bullet loaded
+LOG: 259036
+LOG: hud1 loaded
+LOG: 70823
+LOG: hud2 loaded
+LOG: 529043
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 48555
+LOG: bg loaded
+LOG: 649318
+LOG: white cube loaded
+LOG: 218625
+LOG: bullet loaded
+LOG: 327726
+LOG: hud1 loaded
+LOG: 333002
+LOG: hud2 loaded
+LOG: 214613
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 209285
+LOG: bg loaded
+LOG: 215726
+LOG: white cube loaded
+LOG: 568378
+LOG: bullet loaded
+LOG: 296554
+LOG: hud1 loaded
+LOG: 636028
+LOG: hud2 loaded
+LOG: 535003
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 827317
+LOG: bg loaded
+LOG: 905795
+LOG: white cube loaded
+LOG: 725537
+LOG: bullet loaded
+LOG: 907234
+LOG: hud1 loaded
+LOG: 426366
+LOG: hud2 loaded
+LOG: 522
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 317187
+LOG: bg loaded
+LOG: 420598
+LOG: white cube loaded
+LOG: 44177
+LOG: bullet loaded
+LOG: 239743
+LOG: hud1 loaded
+LOG: 410895
+LOG: hud2 loaded
+LOG: 591797
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 717822
+LOG: bg loaded
+LOG: 274934
+LOG: white cube loaded
+LOG: 842937
+LOG: bullet loaded
+LOG: 626593
+LOG: hud1 loaded
+LOG: 90498
+LOG: hud2 loaded
+LOG: 900101
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 516708
+LOG: bg loaded
+LOG: 892947
+LOG: white cube loaded
+LOG: 740157
+LOG: bullet loaded
+LOG: 264442
+LOG: hud1 loaded
+LOG: 228373
+LOG: hud2 loaded
+LOG: 465958
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 592042
+LOG: bg loaded
+LOG: 706679
+LOG: white cube loaded
+LOG: 704720
+LOG: bullet loaded
+LOG: 623
+LOG: hud1 loaded
+LOG: 989670
+LOG: hud2 loaded
+LOG: 560254
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 443756
+LOG: bg loaded
+LOG: 686228
+LOG: white cube loaded
+LOG: 475895
+LOG: bullet loaded
+LOG: 180463
+LOG: hud1 loaded
+LOG: 655703
+LOG: hud2 loaded
+LOG: 906061
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 449978
+LOG: bg loaded
+LOG: 201030
+LOG: white cube loaded
+LOG: 794534
+LOG: bullet loaded
+LOG: 512972
+LOG: hud1 loaded
+LOG: 156585
+LOG: hud2 loaded
+LOG: 497335
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 472484
+LOG: bg loaded
+LOG: 169578
+LOG: white cube loaded
+LOG: 368791
+LOG: bullet loaded
+LOG: 190811
+LOG: hud1 loaded
+LOG: 389723
+LOG: hud2 loaded
+LOG: 811682
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 855891
+LOG: bg loaded
+LOG: 444057
+LOG: white cube loaded
+LOG: 234054
+LOG: bullet loaded
+LOG: 566347
+LOG: hud1 loaded
+LOG: 487752
+LOG: hud2 loaded
+LOG: 101589
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 604755
+LOG: bg loaded
+LOG: 869657
+LOG: white cube loaded
+LOG: 732538
+LOG: bullet loaded
+LOG: 722585
+LOG: hud1 loaded
+LOG: 818592
+LOG: hud2 loaded
+LOG: 670371
+LOG: Sprite created!
+LOG: bar1 loaded
+LOG: 920238
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 478975
+LOG: bg loaded
+LOG: 301402
+LOG: white cube loaded
+LOG: 594321
+LOG: bullet loaded
+LOG: 580263
+LOG: hud1 loaded
+LOG: 234115
+LOG: hud2 loaded
+LOG: 846877
+LOG: Sprite created!
+LOG: bar1 loaded
+LOG: 821508
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 438592
+LOG: bg loaded
+LOG: 485822
+LOG: white cube loaded
+LOG: 841293
+LOG: bullet loaded
+LOG: 703292
+LOG: hud1 loaded
+LOG: 675016
+LOG: hud2 loaded
+LOG: 733125
+LOG: Sprite created!
+LOG: bar1 loaded
+LOG: 163218
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 684718
+LOG: bg loaded
+LOG: 288554
+LOG: white cube loaded
+LOG: 608940
+LOG: bullet loaded
+LOG: 937472
+LOG: hud1 loaded
+LOG: 519770
+LOG: hud2 loaded
+LOG: 795961
+LOG: Sprite created!
+LOG: bar1 loaded
+LOG: 387475
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 776336
+LOG: bg loaded
+LOG: 556032
+LOG: white cube loaded
+LOG: 312770
+LOG: bullet loaded
+LOG: 18981
+LOG: hud1 loaded
+LOG: 46029
+LOG: hud2 loaded
+LOG: 129682
+LOG: Sprite created!
+LOG: bar1 loaded
+LOG: 354010
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 969634
+LOG: bg loaded
+LOG: 513579
+LOG: white cube loaded
+LOG: 690109
+LOG: bullet loaded
+LOG: 711170
+LOG: hud1 loaded
+LOG: 362624
+LOG: hud2 loaded
+LOG: 412569
+LOG: Sprite created!
+LOG: bar1 loaded
+LOG: 384141
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 821348
+LOG: bg loaded
+LOG: 976776
+LOG: white cube loaded
+LOG: 977636
+LOG: bullet loaded
+LOG: 891010
+LOG: hud1 loaded
+LOG: 28658
+LOG: hud2 loaded
+LOG: 758376
+LOG: Sprite created!
+LOG: bar1 loaded
+LOG: 136160
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 941695
+LOG: bg loaded
+LOG: 727604
+LOG: white cube loaded
+LOG: 90714
+LOG: bullet loaded
+LOG: 499219
+LOG: hud1 loaded
+LOG: 288936
+LOG: hud2 loaded
+LOG: 481366
+LOG: Sprite created!
+LOG: bar1 loaded
+LOG: 261687
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 112487
+LOG: bg loaded
+LOG: 716604
+LOG: white cube loaded
+LOG: 377444
+LOG: bullet loaded
+LOG: 997218
+LOG: hud1 loaded
+LOG: 372393
+LOG: hud2 loaded
+LOG: 449906
+LOG: Sprite created!
+LOG: bar1 loaded
+LOG: 142568
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 964201
+LOG: bg loaded
+LOG: 179800
+LOG: white cube loaded
+LOG: 664971
+LOG: bullet loaded
+LOG: 177057
+LOG: hud1 loaded
+LOG: 522074
+LOG: hud2 loaded
+LOG: 795713
+LOG: Sprite created!
+LOG: bar1 loaded
+LOG: 894586
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 194043
+LOG: bg loaded
+LOG: 561490
+LOG: white cube loaded
+LOG: 660648
+LOG: bullet loaded
+LOG: 65908
+LOG: hud1 loaded
+LOG: 118220
+LOG: hud2 loaded
+LOG: 135477
+LOG: Sprite created!
+LOG: bar1 loaded
+LOG: 12039
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 232834
+LOG: bg loaded
+LOG: 467432
+LOG: white cube loaded
+LOG: 490522
+LOG: bullet loaded
+LOG: 605427
+LOG: hud1 loaded
+LOG: 116320
+LOG: hud2 loaded
+LOG: 689248
+LOG: Sprite created!
+LOG: bar1 loaded
+LOG: 268095
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 696358
+LOG: bg loaded
+LOG: 105896
+LOG: white cube loaded
+LOG: 616567
+LOG: bullet loaded
+LOG: 63437
+LOG: hud1 loaded
+LOG: 588161
+LOG: hud2 loaded
+LOG: 909300
+LOG: Sprite created!
+LOG: bar1 loaded
+LOG: 73969
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 245278
+LOG: bg loaded
+LOG: 497036
+LOG: white cube loaded
+LOG: 127802
+LOG: bullet loaded
+LOG: 270447
+LOG: hud1 loaded
+LOG: 601731
+LOG: hud2 loaded
+LOG: 355445
+LOG: Sprite created!
+LOG: bar1 loaded
+LOG: 803931
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 152856
+LOG: bg loaded
+LOG: 17296
+LOG: white cube loaded
+LOG: 794320
+LOG: bullet loaded
+LOG: 133532
+LOG: hud1 loaded
+LOG: 658452
+LOG: hud2 loaded
+LOG: 468867
+LOG: Sprite created!
+LOG: bar1 loaded
+LOG: 988055
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 468094
+LOG: bg loaded
+LOG: 118957
+LOG: white cube loaded
+LOG: 691539
+LOG: bullet loaded
+LOG: 771381
+LOG: hud1 loaded
+LOG: 796326
+LOG: hud2 loaded
+LOG: 34725
+LOG: Sprite created!
+LOG: bar1 loaded
+LOG: 545947
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 970408
+LOG: bg loaded
+LOG: 179716
+LOG: white cube loaded
+LOG: 647459
+LOG: bullet loaded
+LOG: 768911
+LOG: hud1 loaded
+LOG: 266267
+LOG: hud2 loaded
+LOG: 292196
+LOG: Sprite created!
+LOG: bar1 loaded
+LOG: 607877
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 131138
+LOG: bg loaded
+LOG: 746123
+LOG: white cube loaded
+LOG: 513564
+LOG: bullet loaded
+LOG: 254091
+LOG: hud1 loaded
+LOG: 569293
+LOG: hud2 loaded
+LOG: 128938
+LOG: Sprite created!
+LOG: bar1 loaded
+LOG: 391695
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 387327
+LOG: bg loaded
+LOG: 487799
+LOG: white cube loaded
+LOG: 701836
+LOG: bullet loaded
+LOG: 17441
+LOG: hud1 loaded
+LOG: 194479
+LOG: hud2 loaded
+LOG: 323573
+LOG: Sprite created!
+LOG: bar1 loaded
+LOG: 713015
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 239041
+LOG: bg loaded
+LOG: 950995
+LOG: white cube loaded
+LOG: 989363
+LOG: bullet loaded
+LOG: 197280
+LOG: hud1 loaded
+LOG: 860512
+LOG: hud2 loaded
+LOG: 185731
+LOG: Sprite created!
+LOG: bar1 loaded
+LOG: 465034
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 702565
+LOG: bg loaded
+LOG: 589460
+LOG: white cube loaded
+LOG: 599056
+LOG: bullet loaded
+LOG: 138938
+LOG: hud1 loaded
+LOG: 816001
+LOG: hud2 loaded
+LOG: 405782
+LOG: Sprite created!
+LOG: bar1 loaded
+LOG: 270908
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 954109
+LOG: bg loaded
+LOG: 211083
+LOG: white cube loaded
+LOG: 55690
+LOG: bullet loaded
+LOG: 166573
+LOG: hud1 loaded
+LOG: 260969
+LOG: hud2 loaded
+LOG: 474331
+LOG: Sprite created!
+LOG: bar1 loaded
+LOG: 655565
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 604709
+LOG: bg loaded
+LOG: 292293
+LOG: white cube loaded
+LOG: 724083
+LOG: bullet loaded
+LOG: 984263
+LOG: hud1 loaded
+LOG: 548524
+LOG: hud2 loaded
+LOG: 902348
+LOG: Sprite created!
+LOG: bar1 loaded
+LOG: 965477
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 524731
+LOG: bg loaded
+LOG: 842157
+LOG: white cube loaded
+LOG: 27881
+LOG: bullet loaded
+LOG: 512368
+LOG: hud1 loaded
+LOG: 90656
+LOG: hud2 loaded
+LOG: 681966
+LOG: Sprite created!
+LOG: bar1 loaded
+LOG: 685436
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 15375
+LOG: bg loaded
+LOG: 23096
+LOG: white cube loaded
+LOG: 303870
+LOG: bullet loaded
+LOG: 902618
+LOG: hud1 loaded
+LOG: 978828
+LOG: hud2 loaded
+LOG: 152867
+LOG: bar1 loaded
+LOG: 918915
+LOG: bar2 loaded
+LOG: 541735
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 948645
+LOG: bg loaded
+LOG: 331179
+LOG: white cube loaded
+LOG: 358248
+LOG: bullet loaded
+LOG: 151148
+LOG: hud1 loaded
+LOG: 907040
+LOG: hud2 loaded
+LOG: 184244
+LOG: bar1 loaded
+LOG: 540405
+LOG: bar2 loaded
+LOG: 550141
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 731247
+LOG: bg loaded
+LOG: 495446
+LOG: white cube loaded
+LOG: 999849
+LOG: bullet loaded
+LOG: 927317
+LOG: hud1 loaded
+LOG: 279954
+LOG: hud2 loaded
+LOG: 27029
+LOG: bar1 loaded
+LOG: 475140
+LOG: bar2 loaded
+LOG: 582042
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 530134
+LOG: bg loaded
+LOG: 113459
+LOG: white cube loaded
+LOG: 897069
+LOG: bullet loaded
+LOG: 565167
+LOG: hud1 loaded
+LOG: 417828
+LOG: hud2 loaded
+LOG: 592887
+LOG: bar1 loaded
+LOG: 516681
+LOG: bar2 loaded
+LOG: 968544
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 605468
+LOG: bg loaded
+LOG: 927191
+LOG: white cube loaded
+LOG: 345281
+LOG: bullet loaded
+LOG: 301347
+LOG: hud1 loaded
+LOG: 695478
+LOG: hud2 loaded
+LOG: 687183
+LOG: bar1 loaded
+LOG: 860058
+LOG: bar2 loaded
+LOG: 940444
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 457182
+LOG: bg loaded
+LOG: 906739
+LOG: white cube loaded
+LOG: 632807
+LOG: bullet loaded
+LOG: 481187
+LOG: hud1 loaded
+LOG: 361511
+LOG: hud2 loaded
+LOG: 32989
+LOG: bar1 loaded
+LOG: 128429
+LOG: bar2 loaded
+LOG: 368694
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 170672
+LOG: bg loaded
+LOG: 772077
+LOG: white cube loaded
+LOG: 628484
+LOG: bullet loaded
+LOG: 853685
+LOG: hud1 loaded
+LOG: 957656
+LOG: hud2 loaded
+LOG: 372753
+LOG: bar1 loaded
+LOG: 729529
+LOG: bar2 loaded
+LOG: 4246
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 410576
+LOG: bg loaded
+LOG: 60006
+LOG: white cube loaded
+LOG: 561139
+LOG: bullet loaded
+LOG: 755355
+LOG: hud1 loaded
+LOG: 817881
+LOG: hud2 loaded
+LOG: 844315
+LOG: bar1 loaded
+LOG: 944045
+LOG: bar2 loaded
+LOG: 418848
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 130288
+LOG: bg loaded
+LOG: 440145
+LOG: white cube loaded
+LOG: 391809
+LOG: bullet loaded
+LOG: 976715
+LOG: hud1 loaded
+LOG: 398557
+LOG: hud2 loaded
+LOG: 775353
+LOG: bar1 loaded
+LOG: 71239
+LOG: bar2 loaded
+LOG: 629950
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 221907
+LOG: bg loaded
+LOG: 707623
+LOG: white cube loaded
+LOG: 95638
+LOG: bullet loaded
+LOG: 58224
+LOG: hud1 loaded
+LOG: 924815
+LOG: hud2 loaded
+LOG: 592721
+LOG: bar1 loaded
+LOG: 37774
+LOG: bar2 loaded
+LOG: 956451
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 875108
+LOG: bg loaded
+LOG: 103909
+LOG: white cube loaded
+LOG: 806051
+LOG: bullet loaded
+LOG: 232602
+LOG: hud1 loaded
+LOG: 85399
+LOG: hud2 loaded
+LOG: 415629
+LOG: bar1 loaded
+LOG: 608984
+LOG: bar2 loaded
+LOG: 73124
+LOG: win1 loaded
+LOG: 298663
+LOG: win2 loaded
+LOG: 159659
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 434879
+LOG: bg loaded
+LOG: 615016
+LOG: white cube loaded
+LOG: 547764
+LOG: bullet loaded
+LOG: 250828
+LOG: hud1 loaded
+LOG: 507028
+LOG: hud2 loaded
+LOG: 484343
+LOG: bar1 loaded
+LOG: 988901
+LOG: bar2 loaded
+LOG: 360234
+LOG: win1 loaded
+LOG: 375127
+LOG: win2 loaded
+LOG: 133167
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 97923
+LOG: bg loaded
+LOG: 725830
+LOG: white cube loaded
+LOG: 369788
+LOG: bullet loaded
+LOG: 733537
+LOG: hud1 loaded
+LOG: 796346
+LOG: hud2 loaded
+LOG: 94908
+LOG: bar1 loaded
+LOG: 834648
+LOG: bar2 loaded
+LOG: 842440
+LOG: win1 loaded
+LOG: 280907
+LOG: win2 loaded
+LOG: 966437
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 960488
+LOG: bg loaded
+LOG: 825346
+LOG: white cube loaded
+LOG: 371441
+LOG: bullet loaded
+LOG: 240945
+LOG: hud1 loaded
+LOG: 870438
+LOG: hud2 loaded
+LOG: 63283
+LOG: bar1 loaded
+LOG: 236621
+LOG: bar2 loaded
+LOG: 848600
+LOG: win1 loaded
+LOG: 626123
+LOG: win2 loaded
+LOG: 113248
+LOG: IRX: Loading audsrv...
+LOG: IRX: Audsrv loaded!
+LOG: Path3 initialized
+LOG: Framebuffers, zBuffer set and allocated!
+LOG: Drawing environment initialized!
+LOG: Renderer core initialized!
+LOG: Renderer texture initialized!
+LOG: Clut set!
+LOG: Frustum planes initialized!
+LOG: RendererCore3D initialized!
+LOG: Creating audio semaphore
+LOG: AudioSong semaphore created
+LOG: Audio initialized!
+LOG: Initializing pad
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Enabling dual shock functions.
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad has pressure sensitive buttons? 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: # of actuators: 2
+LOG: padSetActAlign: 1
+LOG: Pad state changed
+LOG: Pad is ready!
+LOG: Pad initialized!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: Sprite created!
+LOG: black cube loaded
+LOG: 800547
+LOG: bg loaded
+LOG: 956313
+LOG: white cube loaded
+LOG: 798836
+LOG: bullet loaded
+LOG: 554163
+LOG: hud1 loaded
+LOG: 711392
+LOG: hud2 loaded
+LOG: 200959
+LOG: bar1 loaded
+LOG: 489343
+LOG: bar2 loaded
+LOG: 408257
+LOG: win1 loaded
+LOG: 748736
+LOG: win2 loaded
+LOG: 679009
